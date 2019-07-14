@@ -1,4 +1,4 @@
 namespace Fsharp
 
 type Fsharp() = 
-    member this.X = "F#"
+    member this.X = "Fsharp"
